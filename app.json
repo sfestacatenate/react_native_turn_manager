@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "Turni Offline",
+    "slug": "turni-offline-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.example.turnioffline"
+    },
+    "android": {
+      "package": "com.example.turnioffline"
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
